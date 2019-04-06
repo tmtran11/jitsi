@@ -1,0 +1,4 @@
+plugins:
+  jitsi_enabled:
+    default: true
+    client: true
