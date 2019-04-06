@@ -1,6 +1,6 @@
 # jitsi
 
-jitsi is a plugin for ...
+jitsi is a plugin for group chat in Discourse
 
 ## Installation
 
